@@ -9,7 +9,6 @@ I'm a passionate full-stack developer with a strong focus on building web applic
 - 💬 Ask me about **full-stack development**, **MERN stack**, **Spring Boot**, **AI integration**, or **project management**.
 - 💡 I’m passionate about creating systems that solve practical problems.
 - ✍️ I also enjoy writing articles about business tools, online platforms, and emerging tech trends.
-- 🎓 I mentor and guide university students on tech projects and development practices.
 
 ## 🔧 Skills & Tools
 
@@ -24,8 +23,8 @@ I'm a passionate full-stack developer with a strong focus on building web applic
 ## 💻 Current Projects
 
 - **Stress Detection System**: A web app that detects student stress using facial expression analysis, with data recorded in Firebase.
+- **Pharmacy Website**: A webiste foe MedixMart pharmacy to increase its online visiblity.
 - **Space Journey Booking App**: A mobile app for booking space travel, integrating payment systems, and providing spaceship/destination information.
-- **Hotel Management System**: Development of a complete management solution for a mid-range beach hotel.
 
 ## 🛠️ Tools & Technologies I Use Regularly
 
@@ -37,7 +36,6 @@ I'm a passionate full-stack developer with a strong focus on building web applic
 ## 🌍 Let's Connect!
 
 - LinkedIn: https://www.linkedin.com/in/nimtharu-jayasekara-2a393322b/
-- Twitter:
 - Portfolio:
 
 ---
