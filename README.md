@@ -1,24 +1,39 @@
-# Hi, I'm Nimtharu👋
+# Hi, I'm Nimtharu👋 
+Full-Stack Developer | AI Enthusiast | Open Source Contributor
 
-I'm a passionate full-stack developer with a strong focus on building web applications, mobile apps, and integrating AI capabilities into real-world systems. I enjoy solving challenging problems through technology and have hands-on experience working with dynamic teams.
+I am a passionate full-stack developer with a strong focus on building web applications, mobile apps, and integrating AI capabilities into real-world systems. I thrive on solving challenging problems through technology and have hands-on experience working in dynamic teams to develop innovative solutions.
+
+My expertise lies in the MERN stack and Java-Spring framework, allowing me to build scalable, efficient, and user-friendly applications. Whether it's crafting seamless frontend experiences, designing robust backend architectures, or implementing AI-driven solutions, I am always eager to explore new technologies and push the boundaries of innovation.
+
+💡 Skills & Interests:
+- ✔️ Full-Stack Development (MERN, Java-Spring)
+- ✔️ AI & Machine Learning Integration
+- ✔️ Cloud & Database Management
+- ✔️ Scalable System Architecture
+
+I believe in continuous learning, collaboration, and leveraging technology to solve real-world problems. Feel free to check out my repositories, contribute, or connect with me!
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning new AI techniques and improving my backend development skills.
-- 👯 I’m looking to collaborate on projects involving AI/ML, full-stack development, and innovative software solutions.
+- 🌱 I’m currently learning about AI techniques and improving my backend development skills.
+- 👯 I’m looking to collaborate on projects involving full-stack development, AI/ML, and innovative software solutions.
 - 💬 Ask me about **full-stack development**, **MERN stack**, **Spring Boot**, **AI integration**, or **project management**.
 - 💡 I’m passionate about creating systems that solve practical problems.
-- ✍️ I also enjoy writing articles about business tools, online platforms, and emerging tech trends.
 
 ## 🔧 Skills & Tools
 
-- **Frontend**: React, Redux, HTML5, CSS3, JavaScript
+- **Frontend**: React, Next.js, JavaScript, TypeScript, HTML5, CSS3,
 - **Backend**: Node.js, Express.js, Spring Boot
 - **Databases**: Firebase, MongoDB, MySQL, PostgreSQL
 - **AI/ML**: Tensorflow, Numpy, Pandas
 - **Other Tools**: Git, Docker, Firebase, RESTful APIs
 - **Mobile Development**: Flutter
-- **Project Management**: Agile, Scrum
+- **Project Management**: Agile, Scrum, Trello
+
+![Nimtharu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnjayasekara&show_icons=true&theme=transparent)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnjayasekara&langs_count=4&layout=donut&hide=astro)
+
+## 🌐 Technologies
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -89,20 +104,20 @@ I'm a passionate full-stack developer with a strong focus on building web applic
 
 ## 💻 Current Projects
 
-- **Stress Detection System**: A web app that detects student stress using facial expression analysis, with data recorded in Firebase.
-- **Pharmacy Website**: A webiste foe MedixMart pharmacy to increase its online visiblity.
+- **MedixMart Pharmacy Website**: A webiste for MedixMart pharmacy, Belihuloya to increase its online visiblity.
+- **Smart Trasport Management System**: A comprehensive digital solution designed to streamline transport operations using Django framework.
 - **Space Journey Booking App**: A mobile app for booking space travel, integrating payment systems, and providing spaceship/destination information.
 
 ## 🛠️ Tools & Technologies I Use Regularly
 
-- **Languages**: JavaScript, Python, Java
+- **Languages**: JavaScript, Python, Java, Typescript
 - **Frameworks**: React, Spring Boot, Flask
-- **Database Management**: Firebase, MongoDB, MySQL, PostgreSQL
+- **Database Management**: Firebase, MongoDB, MySQL
 - **Version Control**: Git, GitHub
 
 ## 🌍 Let's Connect!
 
-- LinkedIn: https://www.linkedin.com/in/nimtharu-jayasekara-2a393322b/
+- LinkedIn: [https://www.linkedin.com/in/nimtharu-jayasekara](https://www.linkedin.com/in/nimtharu-jayasekara/)
 - Portfolio:
 
 ---
