@@ -1,7 +1,7 @@
-# Hi, I'm Nimtharu👋 
-Full-Stack Developer | AI Enthusiast | Open Source Contributor
+<img width=1000 align="center" src="./gnj-github-header-image.png" />
 
-I am a passionate full-stack developer with a strong focus on building web applications, mobile apps, and integrating AI capabilities into real-world systems. I thrive on solving challenging problems through technology and have hands-on experience working in dynamic teams to develop innovative solutions.
+---
+I am a passionate full-stack developer with a strong focus on building web applications, mobile apps, and integrating AI capabilities into real-world systems. I thrive on solving challenging problems through technology and have hands-on experience working in dynamic teams to develop innovative solutions. As an undergraduate I actively voulnteer in the IEEE student branch and love to contribute to various open source projects.
 
 My expertise lies in the MERN stack and Java-Spring framework, allowing me to build scalable, efficient, and user-friendly applications. Whether it's crafting seamless frontend experiences, designing robust backend architectures, or implementing AI-driven solutions, I am always eager to explore new technologies and push the boundaries of innovation.
 
@@ -9,9 +9,10 @@ My expertise lies in the MERN stack and Java-Spring framework, allowing me to bu
 - ✔️ Full-Stack Development (MERN, Java-Spring)
 - ✔️ AI & Machine Learning Integration
 - ✔️ Cloud & Database Management
-- ✔️ Scalable System Architecture
+- ✔️ Open Source Contribution
+- ✔️ Volunteering - IEEE, Computer Society
 
-I believe in continuous learning, collaboration, and leveraging technology to solve real-world problems. Feel free to check out my repositories, contribute, or connect with me!
+I believe in continuous learning, collaboration, and leveraging technology to solve real-world problems.
 
 ## 🚀 About Me
 
@@ -30,7 +31,11 @@ I believe in continuous learning, collaboration, and leveraging technology to so
 - **Mobile Development**: Flutter
 - **Project Management**: Agile, Scrum, Trello
 
-![Nimtharu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnjayasekara&show_icons=true&theme=transparent)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnjayasekara&langs_count=4&layout=donut&hide=astro)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gnjayasekara&show_icons=true&theme=algolia" alt="Nimtharu's GitHub stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnjayasekara&langs_count=4&layout=donut&hide=astro&theme=algolia" alt="Top Languages"/>
+</p>
 
 ## 🌐 Technologies
 
@@ -118,7 +123,6 @@ I believe in continuous learning, collaboration, and leveraging technology to so
 ## 🌍 Let's Connect!
 
 - LinkedIn: [https://www.linkedin.com/in/nimtharu-jayasekara](https://www.linkedin.com/in/nimtharu-jayasekara/)
-- Portfolio:
 
 ---
 
