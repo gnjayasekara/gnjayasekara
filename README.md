@@ -1,20 +1,14 @@
 <img width=1000 align="center" src="./gnj-github-header-image.png" />
 
 ---
-I am a passionate full-stack developer with a strong focus on building web applications, mobile apps, and integrating AI capabilities into real-world systems. I thrive on solving challenging problems through technology and have hands-on experience working in dynamic teams to develop innovative solutions. As an undergraduate I actively voulnteer in the IEEE student branch and love to contribute to various open source projects.
+## 🌟 About Me  
 
-My expertise lies in the MERN stack and Java-Spring framework, allowing me to build scalable, efficient, and user-friendly applications. Whether it's crafting seamless frontend experiences, designing robust backend architectures, or implementing AI-driven solutions, I am always eager to explore new technologies and push the boundaries of innovation.
+I am a passionate **full-stack developer** with a strong focus on building **web applications, mobile apps**, and integrating **AI capabilities** into real-world systems. I thrive on solving **challenging problems** through technology and have hands-on experience working in **dynamic teams** to develop innovative solutions.  
 
-💡 Skills & Interests:
-- ✔️ Full-Stack Development (MERN, Java-Spring)
-- ✔️ AI & Machine Learning Integration
-- ✔️ Cloud & Database Management
-- ✔️ Open Source Contribution
-- ✔️ Volunteering - IEEE, Computer Society
+As an **undergraduate**, I actively volunteer in the **IEEE Student Branch** and enjoy contributing to **open-source projects**. <br/>
+My expertise lies in the **MERN stack** and **Java-Spring framework**, allowing me to build **scalable, efficient, and user-friendly applications**.  
 
-I believe in continuous learning, collaboration, and leveraging technology to solve real-world problems.
-
-## 🚀 About Me
+## 🤔 What Am I Upto
 
 - 🌱 I’m currently learning about AI techniques and improving my backend development skills.
 - 👯 I’m looking to collaborate on projects involving full-stack development, AI/ML, and innovative software solutions.
